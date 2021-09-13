@@ -8,7 +8,9 @@
 "nombre":"cristhian",
 "apellido": "lopez",
 "edad": "27",
-"profesion": "ingeniero comercial"
+"profesion": "ingeniero comercial\n"
+"color": "#FFFF",
+"casado": true
 }
 
 //array

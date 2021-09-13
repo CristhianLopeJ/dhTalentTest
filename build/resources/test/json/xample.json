@@ -1,0 +1,43 @@
+//nombre: Cristhian
+//apellido =  Lopez
+//Edad: 27
+//profesion : ingeniero comercial
+//
+//pares clave valor
+//{
+"nombre":"cristhian",
+"apellido": "lopez",
+"edad": "27",
+"profesion": "ingeniero comercial\n"
+"color": "#FFFF",
+"casado": true
+}
+
+//array
+{
+"nombre": "cristhian",
+"apellido": "lopez",
+"edad": "27",
+"profesion": "ingeniero comercial",
+"Direccion":["Direccion 1", "Direccion"]
+}
+
+//Matriz
+
+{
+"nombre": "cristhian",
+"apellido": "lopez",
+"edad": "27",
+"profesion": "ingeniero comercial",
+"Direccion":["Direccion 1", "Direccion"]
+"Nacinalidades":[
+{
+"pais": "India",
+"Data": {
+"Capital": "Nueva Delhi"
+"Altitud": 343,
+"Longitud": 363,
+}
+}
+]
+}
